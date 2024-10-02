@@ -7,15 +7,14 @@
 <img src="https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
 </div>
 
-Im learning 
+<h2>I am learning 🧠</h2>
 
+<div style="display: inline-block;">
+<img src="https://cdn-icons-png.freepik.com/512/14955/14955702.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
+<img src="https://cdn-icons-png.freepik.com/512/3098/3098090.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
+</div>
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+And that's it, you have to star to be big, <b>right</b>? .🤞🍀
 <!---
 juanca1620/juanca1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
