@@ -1,8 +1,13 @@
 <h1 style="font-weight: bold;">Hi, My name is Juanca, a junior programar loking for incrise my Skill cheks every day for some day I'll could be a Cloud architect ☁️💻❤️‍🔥</h1>
 
-I know some lenguages like 
-<img src="https://cdn-icons-png.freepik.com/512/5813/5813738.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
+I know some lenguages like 🕵️
+<img src="https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
 <img src="https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
+<img src="https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
+
+Im learning 
+
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
