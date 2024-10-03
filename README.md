@@ -33,7 +33,7 @@ I believe that to achieve big things, you have to start small. I'm committed to 
 
 ---
 
-See you! 😄
+See you! 👨🏻‍💻
 
 <!---
 juanca1620/juanca1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
