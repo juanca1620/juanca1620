@@ -8,9 +8,11 @@ I'm a **Junior Programmer** passionate about improving my skills every day, with
 
 I have experience with the following technologies and languages:
 
-- **JavaScript** ![JavaScript Icon](https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206) 
-- **Python** ![Python Icon](https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206)
-- **HTML & CSS** ![HTML Icon](https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206)
+<div style="display: inline-block;">
+<img src="https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
+<img src="https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
+<img src="https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
+</div>
 
 ---
 
@@ -18,9 +20,10 @@ I have experience with the following technologies and languages:
 
 I’m currently expanding my knowledge in:
 
-- **Docker** ![Docker Icon](https://cdn-icons-png.freepik.com/512/14955/14955702.png?uid=R165052703&ga=GA1.1.1764556811.1727911206)
-- **AWS** ![AWS Icon](https://cdn-icons-png.freepik.com/512/3098/3098090.png?uid=R165052703&ga=GA1.1.1764556811.1727911206)
-
+<div style="display: inline-block;">
+<img src="https://cdn-icons-png.freepik.com/512/14955/14955702.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
+<img src="https://cdn-icons-png.freepik.com/512/3098/3098090.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
+</div>
 ---
 
 ## 🌱 Growth Mindset
