@@ -24,6 +24,7 @@ I’m currently expanding my knowledge in:
 <img src="https://cdn-icons-png.freepik.com/512/14955/14955702.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
 <img src="https://cdn-icons-png.freepik.com/512/3098/3098090.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
 </div>
+
 ---
 
 ## 🌱 Growth Mindset
