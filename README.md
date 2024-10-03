@@ -1,20 +1,36 @@
-<h1 style="font-weight: bold;">Hi, My name is Juanca, a junior programar loking for incrise my Skill cheks every day for some day I'll could be a Cloud architect ☁️💻❤️‍🔥</h1>
+# Hi there! 👋 I'm Juanca
 
-<h2>I know some lenguages like 🕵️</h2>
-<div style="display: inline-block;">
-<img src="https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
-<img src="https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
-<img src="https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
-</div>
+I'm a **Junior Programmer** passionate about improving my skills every day, with the goal of becoming a **Cloud Architect** someday. ☁️💻❤️‍🔥
 
-<h2>I am learning 🧠</h2>
+---
 
-<div style="display: inline-block;">
-<img src="https://cdn-icons-png.freepik.com/512/14955/14955702.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
-<img src="https://cdn-icons-png.freepik.com/512/3098/3098090.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 32px;width: 32px;">
-</div>
+## 🌟 Skills
 
-<h3>And that's it, you have to star to be big, <b>right</b>? .🤞🍀</h3>
+I have experience with the following technologies and languages:
+
+- **JavaScript** ![JavaScript Icon](https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206) 
+- **Python** ![Python Icon](https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206)
+- **HTML & CSS** ![HTML Icon](https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206)
+
+---
+
+## 🧠 Currently Learning
+
+I’m currently expanding my knowledge in:
+
+- **Docker** ![Docker Icon](https://cdn-icons-png.freepik.com/512/14955/14955702.png?uid=R165052703&ga=GA1.1.1764556811.1727911206)
+- **AWS** ![AWS Icon](https://cdn-icons-png.freepik.com/512/3098/3098090.png?uid=R165052703&ga=GA1.1.1764556811.1727911206)
+
+---
+
+## 🌱 Growth Mindset
+
+I believe that to achieve big things, you have to start small. I'm committed to continuous learning and improvement. 🤞🍀
+
+---
+
+Feel free to connect with me or check out my repositories! 😄
+
 <!---
 juanca1620/juanca1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
