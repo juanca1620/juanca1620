@@ -11,13 +11,12 @@ I have experience with the following technologies and languages:
 <div style="display: inline-block;">
   
 <img src="https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" style="color: transparent; height: 50px;width: 50px;">
 <img src="https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
 <img src="https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="color: transparent; height: 50px;width: 50px;">
 </div>
 
 ---
-##Frame works
+## Frame works
 
 <div style="display: inline-block;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" style="color: transparent; height: 50px;width: 50px;">
