@@ -12,11 +12,14 @@ I have experience with the following technologies and languages:
   <img src="https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
   <img src="https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
   <img src="https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" style="height: 60px;" alt="Node.js">
 </div>
 
 ---
 
 ## 🛠️ Frameworks
+
+I specialize in **Backend Development**, working with the following frameworks and tools:
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" style="height: 60px;">
@@ -44,12 +47,24 @@ I'm committed to continuous learning and personal growth. Every project is a ste
 
 ---
 
+## 📂 Projects
+
+Here are some of my recent projects:
+
+- **Project 1:** [Java REST API]([https://github.com/juanca1620/project1](https://github.com/juanca1620/blogAPI))
+- **Project 2:** [Node.js Nest](https://github.com/juanca1620/AIRBNBAPI)
+
+---
+
 ## 📫 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project or share ideas:
 
 - [LinkedIn](https://www.linkedin.com)
 - [GitHub](https://github.com/juanca1620)
+
+See you around! 👨🏻‍💻
+
 
 See you around! 👨🏻‍💻
 
