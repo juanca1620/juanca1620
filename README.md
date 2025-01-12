@@ -12,7 +12,7 @@ I have experience with the following technologies and languages:
   <img src="https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
   <img src="https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
   <img src="https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" style="height: 60px;" alt="Node.js">
+  <img src="https://cdn-icons-png.freepik.com/512/5968/5968322.png" style="height: 60px;" alt="Node.js">
 </div>
 
 ---
@@ -66,5 +66,4 @@ Feel free to reach out if you want to collaborate on a project or share ideas:
 See you around! 👨🏻‍💻
 
 
-See you around! 👨🏻‍💻
 
