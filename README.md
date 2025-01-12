@@ -20,6 +20,7 @@ I have experience with the following technologies and languages:
 
 <div style="display: inline-block;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" style="color: transparent; height: 50px;width: 50px;">
+<img src="https://nestjs.com/img/logo-small.svg" style="color: transparent; height: 50px; width: 50px;">
 </div>
 
 ---
