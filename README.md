@@ -48,16 +48,6 @@ Dedicated software developer focused on **continuous learning** and growth. Spec
 
 ---
 
-## 📚 Featured Projects
-
-### 🔥 [Java REST API](https://github.com/juanca1620/blogAPI)
-Blog API built with **Spring Boot** featuring enterprise patterns
-
-### 🏠 [Node.js Airbnb API](https://github.com/juanca1620/AIRBNBAPI)  
-Rental platform backend built with **NestJS**
-
----
-
 ## 📈 GitHub Stats
 
 ![Juanca's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanca1620&show_icons=true&theme=dark)
