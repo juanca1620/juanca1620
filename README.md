@@ -1,55 +1,74 @@
-Hi there! 👋 I'm Juanca
-I'm a Junior Programmer passionate about improving my skills every day, with the goal of becoming a Cloud Architect someday. ☁️💻
+=====================================
+         JUANCA - DEVELOPER          
+=====================================
 
-🚀 About Me
-Dedicated to continuous learning and growth in software development, with a focus on backend technologies and cloud infrastructure. Every project is a stepping stone toward my goal of becoming a Cloud Architect.
+👋 Hi there! I'm Juanca
 
-💻 Technologies & Skills
-Programming Languages
+Junior Programmer | Aspiring Cloud Architect
+Passionate about backend development and cloud technologies
 
-Java - Object-oriented programming and enterprise applications
-Rust - Systems programming and performance-critical applications
-Node.js - Server-side JavaScript development
+=====================================
+          ABOUT ME                  
+=====================================
 
-Databases
+Dedicated software developer focused on continuous learning 
+and growth. Specializing in backend technologies with a 
+clear path toward cloud architecture mastery.
 
-PostgreSQL - Relational database management and optimization
+Mission: "Big things often have small beginnings."
 
-DevOps & Cloud
+=====================================
+        TECHNICAL SKILLS            
+=====================================
 
-Docker - Containerization and application deployment
-AWS - Cloud services fundamentals (EC2, S3, Lambda, etc.)
+Programming Languages:
+├── Java          - Enterprise applications & OOP
+├── Rust          - Systems programming & performance
+└── Node.js       - Server-side JavaScript
 
+Databases:
+└── PostgreSQL    - Relational database management
 
-🌱 Currently Learning
-Expanding my knowledge in:
+DevOps & Cloud:
+├── Docker        - Containerization & deployment
+└── AWS           - Cloud services fundamentals
 
-Advanced AWS services and cloud architecture patterns
-Microservices architecture
-Infrastructure as Code (IaC)
-Container orchestration with Kubernetes
+=====================================
+        LEARNING ROADMAP            
+=====================================
 
+Currently Expanding:
+- Advanced AWS services and architecture patterns
+- Microservices design and implementation
+- Infrastructure as Code (IaC)
+- Kubernetes and container orchestration
 
-🎯 Goals
+Goals Timeline:
+├── Short-term    → Master CI/CD pipelines
+├── Medium-term   → Cloud-native applications
+└── Long-term     → Certified Cloud Architect
 
-Short-term: Master containerization and CI/CD pipelines
-Medium-term: Develop expertise in cloud-native applications
-Long-term: Become a certified Cloud Architect
+=====================================
+         FEATURED PROJECTS          
+=====================================
 
+[1] Java REST API (Spring Boot)
+    └── Blog API with enterprise patterns
+    └── github.com/juanca1620/blogAPI
 
-🌟 Philosophy
+[2] Node.js Airbnb API (NestJS)
+    └── Rental platform backend
+    └── github.com/juanca1620/AIRBNBAPI
 
-"Big things often have small beginnings."
+=====================================
+        LET'S CONNECT!              
+=====================================
 
-I believe in the power of consistent daily improvement and embracing new challenges as opportunities to grow.
+Open to collaboration and tech discussions
 
-📫 Let's Connect!
-I'm always open to collaborating on interesting projects or discussing technology:
+LinkedIn: linkedin.com
+GitHub:   github.com/juanca1620
 
-💼 LinkedIn
-🐙 GitHub
-
-
-Thanks for stopping by! Happy coding! 👨🏻‍💻
-
-
+=====================================
+     Thanks for stopping by! 👨🏻‍💻     
+=====================================
