@@ -1,74 +1,76 @@
-=====================================
-         JUANCA - DEVELOPER          
-=====================================
+# Hi there! 👋 I'm Juanca
 
-👋 Hi there! I'm Juanca
-
-Junior Programmer | Aspiring Cloud Architect
+**Junior Programmer** | **Aspiring Cloud Architect**  
 Passionate about backend development and cloud technologies
 
-=====================================
-          ABOUT ME                  
-=====================================
+---
 
-Dedicated software developer focused on continuous learning 
-and growth. Specializing in backend technologies with a 
-clear path toward cloud architecture mastery.
+## 🚀 About Me
 
-Mission: "Big things often have small beginnings."
+Dedicated software developer focused on **continuous learning** and growth. Specializing in backend technologies with a clear path toward cloud architecture mastery.
 
-=====================================
-        TECHNICAL SKILLS            
-=====================================
+> *"Big things often have small beginnings."*
 
-Programming Languages:
-├── Java          - Enterprise applications & OOP
-├── Rust          - Systems programming & performance
-└── Node.js       - Server-side JavaScript
+---
 
-Databases:
-└── PostgreSQL    - Relational database management
+## 💻 Tech Stack
 
-DevOps & Cloud:
-├── Docker        - Containerization & deployment
-└── AWS           - Cloud services fundamentals
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-=====================================
-        LEARNING ROADMAP            
-=====================================
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Currently Expanding:
-- Advanced AWS services and architecture patterns
-- Microservices design and implementation
-- Infrastructure as Code (IaC)
-- Kubernetes and container orchestration
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Goals Timeline:
-├── Short-term    → Master CI/CD pipelines
-├── Medium-term   → Cloud-native applications
-└── Long-term     → Certified Cloud Architect
+---
 
-=====================================
-         FEATURED PROJECTS          
-=====================================
+## 🌱 Currently Learning
 
-[1] Java REST API (Spring Boot)
-    └── Blog API with enterprise patterns
-    └── github.com/juanca1620/blogAPI
+- **Advanced AWS** services and architecture patterns
+- **Microservices** design and implementation  
+- **Infrastructure as Code** (IaC)
+- **Kubernetes** and container orchestration
 
-[2] Node.js Airbnb API (NestJS)
-    └── Rental platform backend
-    └── github.com/juanca1620/AIRBNBAPI
+---
 
-=====================================
-        LET'S CONNECT!              
-=====================================
+## 🎯 Roadmap
 
-Open to collaboration and tech discussions
+| Timeline | Goal |
+|----------|------|
+| **Short-term** | Master CI/CD pipelines |
+| **Medium-term** | Cloud-native applications |
+| **Long-term** | Certified Cloud Architect |
 
-LinkedIn: linkedin.com
-GitHub:   github.com/juanca1620
+---
 
-=====================================
-     Thanks for stopping by! 👨🏻‍💻     
-=====================================
+## 📚 Featured Projects
+
+### 🔥 [Java REST API](https://github.com/juanca1620/blogAPI)
+Blog API built with **Spring Boot** featuring enterprise patterns
+
+### 🏠 [Node.js Airbnb API](https://github.com/juanca1620/AIRBNBAPI)  
+Rental platform backend built with **NestJS**
+
+---
+
+## 📈 GitHub Stats
+
+![Juanca's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanca1620&show_icons=true&theme=dark)
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanca1620)
+
+---
+
+<div align="center">
+  <i>Thanks for visiting! Happy coding! 👨🏻‍💻</i>
+</div>
