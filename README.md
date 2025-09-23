@@ -1,69 +1,55 @@
-# Hi there! 👋 I'm Juanca
+Hi there! 👋 I'm Juanca
+I'm a Junior Programmer passionate about improving my skills every day, with the goal of becoming a Cloud Architect someday. ☁️💻
 
-I'm a **Junior Programmer** passionate about improving my skills every day, with the goal of becoming a **Cloud Architect** someday. ☁️💻❤️‍🔥
+🚀 About Me
+Dedicated to continuous learning and growth in software development, with a focus on backend technologies and cloud infrastructure. Every project is a stepping stone toward my goal of becoming a Cloud Architect.
 
----
+💻 Technologies & Skills
+Programming Languages
 
-## 🌟 Skills
+Java - Object-oriented programming and enterprise applications
+Rust - Systems programming and performance-critical applications
+Node.js - Server-side JavaScript development
 
-I have experience with the following technologies and languages:
+Databases
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn-icons-png.freepik.com/512/644/644609.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
-  <img src="https://cdn-icons-png.freepik.com/512/7069/7069918.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
-  <img src="https://cdn-icons-png.freepik.com/512/10006/10006804.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
-  <img src="https://cdn-icons-png.freepik.com/512/5968/5968322.png" style="height: 60px;" alt="Node.js">
-</div>
+PostgreSQL - Relational database management and optimization
 
----
+DevOps & Cloud
 
-## 🛠️ Frameworks
+Docker - Containerization and application deployment
+AWS - Cloud services fundamentals (EC2, S3, Lambda, etc.)
 
-I specialize in **Backend Development**, working with the following frameworks and tools:
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" style="height: 60px;">
-  <img src="https://nestjs.com/img/logo-small.svg" style="height: 60px;">
-</div>
+🌱 Currently Learning
+Expanding my knowledge in:
 
----
+Advanced AWS services and cloud architecture patterns
+Microservices architecture
+Infrastructure as Code (IaC)
+Container orchestration with Kubernetes
 
-## 🧠 Currently Learning
 
-I’m currently expanding my knowledge in:
+🎯 Goals
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn-icons-png.freepik.com/512/14955/14955702.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
-  <img src="https://cdn-icons-png.freepik.com/512/3098/3098090.png?uid=R165052703&ga=GA1.1.1764556811.1727911206" style="height: 60px;">
-</div>
+Short-term: Master containerization and CI/CD pipelines
+Medium-term: Develop expertise in cloud-native applications
+Long-term: Become a certified Cloud Architect
 
----
 
-## 🌱 Growth Mindset
+🌟 Philosophy
 
-> **“Big things often have small beginnings.”**
+"Big things often have small beginnings."
 
-I'm committed to continuous learning and personal growth. Every project is a step forward in my journey to becoming a **Cloud Architect**. 🚀
+I believe in the power of consistent daily improvement and embracing new challenges as opportunities to grow.
 
----
+📫 Let's Connect!
+I'm always open to collaborating on interesting projects or discussing technology:
 
-## 📂 Projects
+💼 LinkedIn
+🐙 GitHub
 
-Here are some of my recent projects:
 
-- **Project 1:** [Java REST API]([https://github.com/juanca1620/project1](https://github.com/juanca1620/blogAPI))
-- **Project 2:** [Node.js Nest](https://github.com/juanca1620/AIRBNBAPI)
-
----
-
-## 📫 Let's Connect!
-
-Feel free to reach out if you want to collaborate on a project or share ideas:
-
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://github.com/juanca1620)
-
-See you around! 👨🏻‍💻
-
+Thanks for stopping by! Happy coding! 👨🏻‍💻
 
 
